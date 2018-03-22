@@ -3,6 +3,13 @@
         -webkit-transform: scale(1.1);
         -ms-transform: scale(1.1);
         transform: scale(1.1);
+
+}
+
+.border123:hover
+{
+        box-shadow: inset 0 0 0 25px #f6f6f6;
+
 }
 
 .grow2:hover
@@ -10,4 +17,21 @@
         -webkit-transform: scale(1.3);
         -ms-transform: scale(1.3);
         transform: scale(1.3);
+}
+
+.retraso-1{
+	-webkit-animation-delay : 1s;
+	-moz-animation-delay : 1s;
+	animation-delay : 1s;
+}
+.retraso-2{
+	-webkit-animation-delay : 2s;
+	-moz-animation-delay : 2s;
+	animation-delay : 2s;
+}
+h5 {
+color: #e85441 ;
+}
+span{
+color: purple
 }
