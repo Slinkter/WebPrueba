@@ -2,16 +2,24 @@
     background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
 }
 .fondo_2{
-    background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
+    background-image: linear-gradient(to right, #908482 0, #699996 100%);
 }
 .fondo_3{
-    background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
+  background-image:
+  radial-gradient(ellipse 80% 120% at 93%   30%,#f0d7ca,rgba(219,232,231,.2) 100%),
+  radial-gradient(ellipse 59% 140% at  0%  120%,#f0d7ca,rgba(219,232,231,.2) 100%),
+  radial-gradient(ellipse 60% 100% at  5%   20%,#b3d7d5,rgba(219,232,231,.2) 100%),
+  radial-gradient(ellipse 60% 100% at 100% 110%,#b3d7d5,rgba(219,232,231,.2) 100%);
+
+
 }
 .fondo_4{
-    background-image: linear-gradient(to right, #dd4b39 0, #720e9e 100%);
+
+    background: linear-gradient(to right, #e85441 , #7c5290 100%);
+
 }
 .fondo_5{
-    /*Contacto.html*/
+
     background-image: radial-gradient(ellipse 59% 100% at 93% 30%,#f0d7ca,rgba(219,232,231,.2) 90%),radial-gradient(ellipse 59% 140% at 0 120%,#f0d7ca,rgba(219,232,231,.2) 60%),radial-gradient(ellipse 60% 100% at 5% 20%,#b3d7d5,rgba(219,232,231,.2) 100%),radial-gradient(ellipse 60% 100% at 100% 110%,#b3d7d5,rgba(219,232,231,.2) 90%);
-    
+
 }
