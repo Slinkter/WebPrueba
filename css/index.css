@@ -35,3 +35,12 @@ color: #e85441 ;
 span{
 color: purple
 }
+
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
