@@ -3,6 +3,7 @@
 }
 .skyblue {
 	 background-color: hsl(193, 69%, 58%);
+	 /*background-color: hsl(193, 69%, 58%);*/
 	 
 }
 
@@ -21,7 +22,7 @@
 .carousel-caption h3,
 .carousel .icon-container,
 .carousel-caption button {
-	background-color: none;
+	background-color: rgb(163, 0, 204);
 	/*background-color: rgb(163, 0, 204);*/
 }
 .carousel-caption h3 {
@@ -37,6 +38,12 @@
 	animation-delay: 0s;
 }
 
+body{
+	color: white;
+}
+hr{
+	
+}
 
 
 
