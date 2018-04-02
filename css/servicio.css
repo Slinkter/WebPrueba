@@ -28,6 +28,18 @@
 .carousel-caption button {
 	background-color: #09c;
 }
+
+
+
+.azul_carousel{
+	background-color: #1D2644;
+}
+
+
+
+
+
+
 .carousel-caption h3 {
 	padding: .5em;
 }
@@ -69,4 +81,9 @@ h1 {
 
 .p a {
   text-decoration: underline;
+}
+
+
+.espacio-arriba{
+margin-top: 100px;
 }
