@@ -29,22 +29,24 @@
 	-moz-animation-delay : 2s;
 	animation-delay : 2s;
 }
-h5 {
+.color_naranja {
 color: #e85441 ;
 }
-span{
-color: purple
+
+.color_morado {
+        color: purple
 }
 
-.fade
-{
+.fade{
         opacity:0.5;
 }
 .fade:hover
 {
         opacity:1;
 }
-
 .espacio-arriba{
 margin-top: 100px;
+}
+.featurette-divider {
+        margin: 5rem 0;
 }
