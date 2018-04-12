@@ -83,3 +83,18 @@ ul.drop-menu li {
 li:hover>ul.drop-menu li {
         display: block;
 }
+
+.tamaño_icono{
+        font-size: 120px;
+}
+
+.padding_1 {
+                
+
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                padding: 30px;
+        
+
+}
