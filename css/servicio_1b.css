@@ -6,12 +6,60 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-   
-    
-    
-    /*<a target="_blank" href="https://www.Vecteezy.com">Gráficos vectoriales por vecteezy.com</a> background = "./img/sgiproceso.jpg"*/    
+    /*<a target="_blank" href="https://www.Vecteezy.com">Gráficos vectoriales por vecteezy.com</a> background = "./img/sgiproceso.jpg"*/
 
 }
+
+.ventaja {
+
+    background-image: url("../img/.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:  125px;
+
+
+
+
+}
+.proceso   {
+
+    background-image: url("../img/.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:  125px;
+
+
+
+}
+.valor {
+
+    background-image: url("../img/.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding:  125px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .btn-space {
     margin: 5px;
