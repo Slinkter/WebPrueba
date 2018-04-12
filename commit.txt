@@ -1,0 +1,236 @@
+commit 765f7aa78870e74b06f8dd2eb1c79e2a1b9c6056
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 12 15:24:04 2018 -0500
+
+    modificando nav principla de consulting arsi
+
+commit f338e3234e538ee06463a1af00179ad99a327547
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 12 08:49:50 2018 -0500
+
+    2018 04 12 (Jueves)
+
+commit 7decdd106222ab50f1f7f50cc3ea0bf7c1ac1e79
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 11 10:08:27 2018 -0500
+
+    2018 04 11 (miercoles)
+
+commit a51530066873f8c50d583f7287f4c16993280745
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 10 11:29:07 2018 -0500
+
+    2018 04 10  (Martes ) : modificacion de bloques index.html
+
+commit 3414001aa196457c8efea5b0148142420ea690f4
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 5 18:15:28 2018 -0500
+
+    b
+
+commit 6609ad4cad9c7d4441b58cefade9147b6eb3c107
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 5 10:10:15 2018 -0500
+
+    2018 05 04 : observación colaborador :graciela y elena
+
+commit 1fc179f9b65f65e45ecaa1556fb5177e7006eaf7
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 5 09:36:45 2018 -0500
+
+    2018 05 04 :
+
+commit cd6dc9d1b6e2857c6c8d2205cce820cb09aaf888
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 2 14:39:11 2018 -0500
+
+    revison 1 : Ing Rodrigo , arreglar fondo , letras , petrolio
+
+commit 2146af6de7107ca832ffac3435be5c5a4af516e2
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 2 12:57:03 2018 -0500
+
+    Almuerzo
+
+commit d0a8dbc5bafd2656088c7df90e14297a05b5a18d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 2 12:23:00 2018 -0500
+
+    2018 04 02  servicio.html 50%
+
+commit 7e145a4eca81c376c63e3ee64764793b56ea9b74
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 2 10:12:01 2018 -0500
+
+    2018 04 02 (Lunes): modificacion del index dando ultimos toques parte 1
+
+commit 603d98f1504ceb31aa4ea73f7c1627134989030f
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Mar 27 18:09:49 2018 -0500
+
+    2018 03 27 (Martes : Servicio.html  se quito footer , nueva interface de servicio.html celeste y azul mar)
+
+commit c0322cea9f4702f12d8af8802b866a9ce6d81722
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Mar 27 18:06:46 2018 -0500
+
+    2018 03 27 (Martes : Servicio.html  se quito footer , nueva interface de servicio.html celeste y azul mar)
+
+commit 21f6da9ebcc1f1c292c1de4f4c8514f3d1f69577
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Mar 27 17:45:02 2018 -0500
+
+    fast
+
+commit 41f57cd6273f043ee676506f09b36a13a393b19e
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Mar 27 13:13:02 2018 -0500
+
+    2018 03 27 (Martes): Mejoras en servicio.html
+
+commit a33c101a996c7f4871cc0c9b854925d535b95f44
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Mar 26 09:28:46 2018 -0500
+
+    2018 03 26 (Lunes): index carousel listo , se borro servicio.css
+
+commit 9e34855e9b77267d77949ceeb7a5d46148757dec
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Mar 23 17:58:57 2018 -0500
+
+    2018 03 23  (Viernes): Fin sector index.html
+
+commit d926c7958d249dc56f5c2d4bda3bbd27b50e4977
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Mar 23 17:57:42 2018 -0500
+
+    2018 03 23 : (Viernes)
+
+commit 91f7eb9e3729ba576b893f5f42aeb33921f9ebf2
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Mar 23 12:30:42 2018 -0500
+
+    index
+
+commit 3aa5c027054c808d58ab86fc513a3bc0080faba2
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Mar 23 10:34:33 2018 -0500
+
+    2018 03 22 (Viernes) : footer con mapas direccion y redes social
+
+commit 267d388d7deaed9c6e1c77d98bb63df9ea4db17f
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Mar 23 10:06:23 2018 -0500
+
+    2018 03 22 (Viernes) : Cambio radical del index.html
+
+commit 149d3b1d7f67344a7858584acaaacabaf19e49e8
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Mar 22 18:03:05 2018 -0500
+
+    fotos index
+
+commit 16370d84efe6f2fc7b8b92abc7bab943db0bb067
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Mar 22 17:36:33 2018 -0500
+
+    2018 03 22 (Jueves) : color logo letras morado y naranga
+
+commit fc1f2d4c102a76c3d5bae739fb4f420aa69f8b69
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Mar 22 16:35:46 2018 -0500
+
+    2018 03 22 (Jueves) : efecto de grow en index.html
+
+commit e39e62f526ec1432f2322448ccce3337608f6c90
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Mar 22 12:10:42 2018 -0500
+
+    prueba
+
+commit f888391919e171b49d481ad5c41b7cf88aba1e1f
+Merge: d9f537c f537dcd
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Thu Mar 22 11:56:31 2018 -0500
+
+    Merge pull request #3 from Slinkter/Slinkter-patch-1
+    
+    Merge pull request #2 from Slinkter/master
+
+commit d9f537ccc0e6be0efc6da143049fadd12bf918f3
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Thu Mar 22 11:54:07 2018 -0500
+
+    Add files via upload
+
+commit f537dcde67aa4bfb98f2c283996bcc35fdfa9dbf
+Merge: b018cb4 31ff062
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Thu Mar 22 11:51:50 2018 -0500
+
+    Merge pull request #2 from Slinkter/master
+    
+    Merge pull request #1 from Slinkter/Slinkter-patch-1
+
+commit 31ff062649b74ee76c1bca550d2bf6b3ed605b23
+Merge: b3cfdda b018cb4
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Wed Mar 21 17:58:56 2018 -0500
+
+    Merge pull request #1 from Slinkter/Slinkter-patch-1
+    
+    Add files via upload
+
+commit b018cb4c8dfc65762d51e3cfff412dae3f32d5a1
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Wed Mar 21 17:58:38 2018 -0500
+
+    Add files via upload
+
+commit b3cfdda1949889c78c7071c5cdc8c1a372044996
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Mon Feb 12 22:20:53 2018 -0500
+
+    Add files via upload
+
+commit dbcdef293f73d009113689d43807701e563838fc
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Sat Nov 18 11:27:21 2017 -0500
+
+    2017 11 18 : sistema Grip completa
+
+commit 3472bc020eef5881ca68d7489ecc38e6c6e92ec3
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Nov 17 19:48:26 2017 -0500
+
+    2017 11 17 : falta terminar Grid system  Horizontal alignment
+
+commit 51eba7b1904d3f6544bf81acb0fff5a2a354b193
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Nov 17 19:34:37 2017 -0500
+
+    2017 11 17 : sistema GRIP
+
+commit e16f37cb3f3c9bbee1c17bec362f661c11a50427
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Nov 16 18:35:17 2017 -0500
+
+    carpeta Css y Js
+
+commit e985a5f083bebd373e723b17901bb9294100b4f8
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Nov 16 17:58:46 2017 -0500
+
+    a
+
+commit aed613040216512f2035e06821edd1487642435b
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Oct 31 22:31:16 2017 -0500
+
+    2017 10 31 : Inicio de Boostrap 4
+
+commit 8fa86393876d2f4700e8518dc29d941b19558123
+Author: Slinkter <Slinkter@users.noreply.github.com>
+Date:   Tue Oct 31 22:21:16 2017 -0500
+
+    Set theme jekyll-theme-cayman

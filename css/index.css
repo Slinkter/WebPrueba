@@ -53,3 +53,33 @@ margin-top: 63px;
 .featurette-divider {
         margin: 5rem 0;
 }
+
+nav {
+        padding: 0px;
+        text-align: center;
+}
+
+nav>ul {
+        list-style: none;
+        display: inline-block;
+}
+
+nav>ul>li {
+        float: left;
+        width: 150px;
+        height: 65px;
+        line-height: 65px;
+        position: relative;
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #007bff;
+        cursor: pointer;
+}
+
+ul.drop-menu li {
+        display: none;
+}
+
+li:hover>ul.drop-menu li {
+        display: block;
+}
