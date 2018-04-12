@@ -1,0 +1,18 @@
+
+
+.servicio_1b {
+
+    background-image: url("../img/sgiproceso.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+    
+    
+    /*<a target="_blank" href="https://www.Vecteezy.com">Gráficos vectoriales por vecteezy.com</a> background = "./img/sgiproceso.jpg"*/    
+
+}
+
+.btn-space {
+    margin: 5px;
+}
