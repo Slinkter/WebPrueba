@@ -89,13 +89,13 @@ li:hover>ul.drop-menu li {
 }
 
 .padding_1 {
-                
+
 
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-attachment: fixed;
                 padding: 30px;
-        
+
 
 }
 
@@ -109,8 +109,46 @@ li:hover>ul.drop-menu li {
 --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 }
 
+.foto_1dsadasdsadsad {
+         background-image: url('img/inicio_des1.png');
+
+         /**
+                 <div  style="background: linear-gradient(90deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)),url('img/inicio.png') center center; background-size: cover;">
+                 m
+        */
+}
+
+/*
 @media (max-width: 767px) {
         .navbar {
                 display: none;
         }
+}
+
+*/
+
+
+#contenedor_principal{
+width:1024px;
+height:auto;
+position:relative;
+margin:auto;
+}
+.contenedor_imagen_texto{
+width:335px;
+height:auto;
+position:relative;
+display:inline-block;
+vertical-align:top;
+overflow:hidden;
+}
+.imagen, .texto{
+width:100%;
+height:auto;
+position:relative;
+display:inline;
+}
+.texto{
+height:auto;
+text-align:center
 }
