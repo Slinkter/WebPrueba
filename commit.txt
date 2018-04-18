@@ -1,3 +1,159 @@
+commit 926dab48a13a700e46e79ce9e6cd4b64806ba4c9
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 16:41:04 2018 -0500
+
+    servicio en index.html
+
+commit 8169921f35fa07c30300458b033eb57f9511b771
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 16:00:16 2018 -0500
+
+    section eliminar sectores
+
+commit de9b3ddc53263993ab5609a1192f679795f7b6db
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 15:44:35 2018 -0500
+
+    mineria texto movil
+
+commit 15d851cf24919c2eebddc8aaa9a06920c6ddf338
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 15:28:20 2018 -0500
+
+    sectores
+
+commit d725f529bb6776267617ade5a36a7d3105cb690b
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 10:24:36 2018 -0500
+
+    index 2 html
+
+commit cfbee068dc701f8e25fa6643bbeb004a52e741b6
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 09:44:04 2018 -0500
+
+    index 2 html
+
+commit 356d959a19f0a4827efb23b60a31d1651e0fb56e
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 18:25:05 2018 -0500
+
+    index 2
+
+commit c28b21f0fada6fb9dcfcdce1d8ec6394716adff7
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 17:21:07 2018 -0500
+
+    2018 04 17 prueba img
+
+commit b9c006527d6cdcb8e667aa4236a03f8930e861cd
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 16:51:48 2018 -0500
+
+    2018 04 17 correcion de logos de certificaciones
+
+commit 0698a3bf0c4fc7e70d3ce2385253a68144654d9c
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 15:15:32 2018 -0500
+
+    2018 04 17 update navbar ocular para movil y tablet
+
+commit 1eb80e195d84c71080789c99592a95c9a80f1b4b
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 15:04:50 2018 -0500
+
+    2018 04 17 update google maps
+
+commit c989ee92a5c95f700600200e1880b3251b4b45f5
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 14:54:59 2018 -0500
+
+    2018 04 17 update google maps
+
+commit 64466046be6edd33c388b2c5a4f14c7e80799e4b
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 14:41:18 2018 -0500
+
+    2018 04 17 update google maps
+
+commit de7735724a5eaad42324c6fd34b42d62dff28001
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 14:38:55 2018 -0500
+
+    2018 04 17 update google maps
+
+commit ecde597654d4ccc3526a63430234e51678af4461
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 17 09:42:29 2018 -0500
+
+    2018 04 17 : presentacion
+
+commit de9ba567db8571d47ba875ed03c6d3c7e870e501
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 16 18:11:39 2018 -0500
+
+    lunes
+
+commit eae3945c40e811b694e0ad87c860d3806ba2e136
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 16 11:08:26 2018 -0500
+
+    2018 04 16 ( Lunes ) : Servicio.html --> tercerizacion
+
+commit 2824c1c2624246594f42f233cf973d8a3910166c
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Sun Apr 15 23:40:17 2018 -0500
+
+    a dormir
+
+commit 1eab2df40313b6caa82ade4e72df72b2b6e65c2c
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Sun Apr 15 22:18:10 2018 -0500
+
+    2018 04 15 (Domingo)
+
+commit 8456f4a539791056207992f0dbb498e377715e76
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 13 13:44:12 2018 -0500
+
+    2018 04 13 (Viernes) : Almuerzo cambio de footer
+
+commit 69084fb07a1ee7359bff7ccccc9cbaa39c331037
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 13 12:54:25 2018 -0500
+
+    a
+
+commit 95341640bf93842eeb073c6aa12a6626702c4309
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 13 12:53:27 2018 -0500
+
+    borrar en servicio 1 a porque elegir ARSI
+
+commit 5799ae8e93146badedacd066c3347453085a0d27
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 13 11:33:39 2018 -0500
+
+    a
+
+commit 7a5eac5c52eba456f2a8ea475c4827c85c70b20d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 12 18:05:47 2018 -0500
+
+    jueves
+
+commit e58564d82eed5c16f2b3153c75e4751d0a13a541
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 12 16:59:37 2018 -0500
+
+    index
+
+commit 3a79b8358a8d300d33f73b0387f899f3fd4bc7f9
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 12 15:53:16 2018 -0500
+
+    regreso
+
 commit 765f7aa78870e74b06f8dd2eb1c79e2a1b9c6056
 Author: Slinkter <luis.j.cueva@gmail.com>
 Date:   Thu Apr 12 15:24:04 2018 -0500
