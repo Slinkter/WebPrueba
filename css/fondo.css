@@ -11,7 +11,6 @@
   radial-gradient(ellipse 60% 100% at  5%   20%,#b3d7d5,rgba(219,232,231,.2) 100%),
   radial-gradient(ellipse 60% 100% at 100% 110%,#b3d7d5,rgba(219,232,231,.2) 100%);
 
-
 }
 .fondo_4{
 
@@ -33,3 +32,21 @@
 
     
 }
+
+.bloque_1 {
+    background-color: #870C1C;
+}
+
+.bloque_2 {
+    background: #262F36;
+    color: #FCFFF5;
+}
+
+.bloque_3 {
+    background-color: #F3BB9A;
+}
+
+.bloque_4 {
+    background-color: #8F9DB2;
+}
+
