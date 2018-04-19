@@ -22,3 +22,11 @@
     /* Support for IE. */
     font-feature-settings: 'liga';
 }
+
+
+.tamaño_icono{
+      font-size: 42px;
+}
+.tamaño_letra{
+  font-size: 22px;
+}
