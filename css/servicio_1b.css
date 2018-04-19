@@ -50,7 +50,7 @@
 
 
 
-  
+
 
 
 
@@ -3868,3 +3868,18 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+  #img_cuadrar{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 100px 0 0;
+  }
+  .img_cuadrara{
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+  }

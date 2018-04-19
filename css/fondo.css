@@ -1,4 +1,4 @@
-.fondo_1{  
+.fondo_1{
     background-image: linear-gradient(to right, #5B8F9A 0, #35D0FF 100%);
 }
 .fondo_2{
@@ -30,8 +30,27 @@
 .fondo_7{
     background-color:  #96ecec;
 
-    
+
 }
+
+.fondo_8{
+  background-color: #211E2B;
+}
+
+.color_texto1{
+    color: #9C4368;
+}
+.color_h2{
+    color: #ED8F5B;
+}
+
+
+
+
+
+
+
+
 
 .bloque_1 {
     background-color: #870C1C;
@@ -49,4 +68,3 @@
 .bloque_4 {
     background-color: #8F9DB2;
 }
-
