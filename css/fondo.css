@@ -28,7 +28,7 @@
     background-color: #ffffffff;
 }
 .fondo_7{
-    background-color:  #96ecec;
+    background-color:   #00bcd4;
 
 
 }
@@ -43,14 +43,6 @@
 .color_h2{
     color: #ED8F5B;
 }
-
-
-
-
-
-
-
-
 
 .bloque_1 {
     background-color: #870C1C;
@@ -103,7 +95,7 @@
     serif;
 }
 .look7 {
-  
+
     font-family: 'Cormorant',
     serif;
 }
@@ -120,4 +112,9 @@
     color: #000000;
     font-family: 'Prata',
     serif;
+}
+
+
+.text_servicios{
+  font-family: 'Poiret One', cursive;
 }

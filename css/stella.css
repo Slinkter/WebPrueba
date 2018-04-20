@@ -1634,7 +1634,7 @@
 /* Type */
 
 	body {
-	
+
 	}
 
 	body, input, select, textarea {
@@ -1828,7 +1828,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		
+
 	}
 
 	blockquote {
@@ -3096,7 +3096,7 @@
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 3em 5em 2em 5em;
 		}
 
 			#header.alt h1 {
@@ -3141,7 +3141,7 @@
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 2em 4em 2em 4em ;
 				}
 
 		}
@@ -3153,7 +3153,7 @@
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 2em 4em 2em 4em;
 				}
 
 		}
