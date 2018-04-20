@@ -68,3 +68,56 @@
 .bloque_4 {
     background-color: #8F9DB2;
 }
+
+
+.look1{
+    color: #fa0024;
+  font-family: 'Alice',
+  serif;
+
+
+}
+.look2 {
+    color: #382a2c;
+    font-family: 'Vidaloka',
+    serif;
+}
+.look3 {
+    color: #000000;
+  font-family: 'Alice',
+  serif;
+}
+.look4 {
+    color: #000000;
+    font-family: 'Arimo',  sans-serif;
+}
+.look5 {
+    color: #000000;
+
+   font-family: 'Average',   serif;
+
+}
+.look6 {
+    color: #000000;
+    font-family: 'Ovo',
+    serif;
+}
+.look7 {
+  
+    font-family: 'Cormorant',
+    serif;
+}
+.texto7{
+  font-family: 'Ovo',
+  serif;
+}
+.look8 {
+    color: #000000;
+    font-family: 'Share',
+    cursive;
+}
+.look9 {
+    color: #000000;
+    font-family: 'Prata',
+    serif;
+}
