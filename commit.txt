@@ -1,3 +1,81 @@
+commit d08329f12a2a2b375503928562d5864d5fcf6557
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 23 14:52:31 2018 -0500
+
+    23 04 2018 (Lunes) : Servicio.html --> Add Banner from index.html | Add Nuetros Servicio
+
+commit 9cdcaf0fd3a1e41ddffe35395d59f0521b8fd4a5
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 23 14:32:12 2018 -0500
+
+    23 04 2018 (Lunes) : Index.html --> se cambiar la foto principal | se elimina section-servicio |
+
+commit d948972ab2b7314255dbfa4f9329ed0fbcb99099
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 23 14:30:31 2018 -0500
+
+    23 04 2018 (Lunes) : Index.html --> se cambiar la foto principal | se elimina section-servicio |
+
+commit 2d1ec370138289711fa6914ebc11c2aad9785b14
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon Apr 23 14:09:58 2018 -0500
+
+    23 04 2018 (Lunes) : Index.html --> se cambiar la foto principal | se elimina section-servicio |
+
+commit 715b5f8b1e9785d83441de4a045b43e22f45fc3c
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 20 16:52:57 2018 -0500
+
+    20 04 2018 (Viernes) : Nuevas Imagenes para SECTOR : Mineria , Contruccion Civil y Petroleo
+
+commit 96b9720749b731580c4c77947ca729e7e9d33c23
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri Apr 20 12:30:26 2018 -0500
+
+    20 04 2018 (Viernes) : se realizaco cambio de tipografia al banner de CONSULTING ARSI y se puso color blanco
+
+commit 062db814b18292352ce974b1174cd1f7b23b069f
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 19 18:35:37 2018 -0500
+
+    19 04 2018 (Jueves) : Pagina sgi.html se trabajo todo el día
+
+commit d1ae3b9a7687c517f001957516c89a1824874433
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 19 18:31:40 2018 -0500
+
+    19 04 2018 (Jueves) : Pagina sgi.html se trabajo todo el día
+
+commit 1d3ec5b60bff19315c2c912a49673df8bbd40086
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 19 16:33:23 2018 -0500
+
+    version 1 sgi.html
+
+commit c64fed6c880f9e939d4368ffe8b07dfbc7bb7c10
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 19 16:09:03 2018 -0500
+
+    sgi.html
+
+commit 31f26a0d65b33980874b0e8cca4550ff118df98d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 18:20:56 2018 -0500
+
+    (Miercoles) 18 04 2018  : en el sector minería se agrego un cruadro descritivo
+
+commit 0c2e0d72043c6f0e27014524a05b8aa2124d9ab5
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 17:45:39 2018 -0500
+
+    (Miercoles) 18 04 2018  : Se agrego los link de las redes sociales
+
+commit b66b476e3fe41cdb4ea5ac8ba55b26b1aa23ecaa
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 18 17:30:23 2018 -0500
+
+    (Miercoles) 18 04 2018
+
 commit 926dab48a13a700e46e79ce9e6cd4b64806ba4c9
 Author: Slinkter <luis.j.cueva@gmail.com>
 Date:   Wed Apr 18 16:41:04 2018 -0500
