@@ -1,3 +1,33 @@
+.alerta_1 {
+	color: #fff;
+	background-color: #0069d9;
+	border-color: #0062cc;
+}
+
+.alerta_2 {
+color: #fff;
+background-color: #5a6268;
+border-color: #545b62;
+
+}
+
+.alerta_3 {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.alerta_4 {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+.alerta_5 {
+   color: #212529;
+   background-color: #e0a800;
+   border-color: #d39e00;
+}
 
 
 .btn-circle {
@@ -219,4 +249,7 @@
       background-image: linear-gradient(to right, #5B8F9A 0, #35D0FF 100%);
         color: #FCFFF5;
 
-    }
+	}
+	
+
+	
