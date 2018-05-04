@@ -1,3 +1,75 @@
+commit c53d80b6a7cd6185bdce21391381d1fcf530802d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu May 3 16:30:10 2018 -0500
+
+    2018 05 03 --> update footer | update nav | creacion de contacto.html | creacion de cliente.html
+
+commit d5aefc4a5939835dde88f02f4855a3d8ed5481bd
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu May 3 14:26:32 2018 -0500
+
+    2018 05 03 --> se modifica nosotros y se crear contacto
+
+commit 0fda1bce7108e10ac2f577a203acccfe81b280e1
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu May 3 11:51:07 2018 -0500
+
+    2018 05 03 --> recreacion todo el codigo por agregar el codigo php del cliente
+
+commit 73849d00f941a3bb1612a269a81ba4eeec4278ba
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu May 3 11:41:42 2018 -0500
+
+    matar codigo
+
+commit 50e9be2ebe50ce097105e698371f2b6ea5c5c289
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed May 2 17:14:04 2018 -0500
+
+     2018 05 02 : web.html --> Presentación de la primera version de Página de Consulting ARSI
+
+commit 53d2719c4af8e81b4c839cfd3aa4a130b6c2eb7b
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Thu Apr 26 11:44:18 2018 -0500
+
+    modificando index.html fondo landing
+
+commit 496799a08cb827fd4148c7a5bcb2593905fd7dd9
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 25 18:41:58 2018 -0500
+
+    25 04 2018 (Miercoles) : servicio_1b.html -->80%
+
+commit 99119a8aa5b25b904f208daea7e76a7170705882
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 25 17:54:52 2018 -0500
+
+    25 04 2018 (Miercoles) : servicio_1c.html -->90%
+
+commit 6ef43be05e7147d86ed51af8aa749f8351560258
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 25 12:53:19 2018 -0500
+
+    25 04 2018 (Miercoles) :purge de varios archivos
+
+commit 3d4d878aaa3b3d51d11b5ee06ff0216048065eed
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed Apr 25 07:05:12 2018 -0500
+
+    25 04 2018 (Martes) : servicio_1b.html --> add morado naranja
+
+commit ce9563739ddffbfb2ec7083e75f481def0927353
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 24 18:34:53 2018 -0500
+
+    24 04 2018 (Lunes) : servicio_1a.html : modificacion 50%
+
+commit 8c175d77c1c59c23285ac8a60f9659552f2b89ba
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue Apr 24 18:01:10 2018 -0500
+
+    24 04 2018 (Lunes) : servicio_1a.html : modificacion 50%
+
 commit d08329f12a2a2b375503928562d5864d5fcf6557
 Author: Slinkter <luis.j.cueva@gmail.com>
 Date:   Mon Apr 23 14:52:31 2018 -0500

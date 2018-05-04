@@ -19,3 +19,84 @@
 
     
  }
+
+
+ #left {
+     width: 600px;
+     float: left;
+     margin-left: 25px;
+     display: inline;
+ }
+
+ #left img {
+     float: left;
+     margin: 5px 20px 2px 0;
+     padding: 3px;
+     border: 1px solid #ccc;
+ }
+
+ #left form {
+     padding-left: 45px;
+ }
+
+ #left label {
+     float: left;
+     display: block;
+     clear: both;
+     padding: 3px 0;
+     color: #666;
+     font-weight: normal;
+     width: 150px;
+ }
+
+ #left .lcurrent {
+     font-weight: bold;
+ }
+
+ #left label img {
+     vertical-align: middle;
+ }
+
+ #left input.text,
+ textarea,
+ select {
+     float: left;
+     margin: 0 5px 10px 0;
+     padding: 7px;
+     width: 350px;
+     border: 1px solid #ccc;
+ }
+
+ #left textarea {
+     height: 200px;
+ }
+
+ #left select {
+     width: 366px;
+ }
+
+ #left input.radio {}
+
+ #left input:focus {
+     border-color: #aaa;
+ }
+
+ #left textarea:focus {
+     border-color: #aaa;
+ }
+
+ .error {
+     font-size: 10px;
+     color: #666;
+     margin: 0 0 10px 150px;
+     display: none;
+ }
+
+ #left .submit {
+     border: 0;
+     background: #000;
+     color: #fff;
+     padding: 5px;
+     float: left;
+     margin-left: 150px;
+ }
