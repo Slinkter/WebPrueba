@@ -1,6 +1,6 @@
 <?php
 
-	$from = "luis.j.cueva@gmail.com";
+	$from = "ro_alex@consultingarsi.com";
 	$from_name = "Consulting Arsi";
 	$subject = "Contacto";
 
