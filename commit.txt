@@ -1,3 +1,39 @@
+commit 65e524cc97c7f5a0746bdb863040c2a21b706b3d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 10:37:26 2018 -0500
+
+    2018 05 08 --> servicio.html | update de background de los servicio | update de descripcion de los servicios
+
+commit f032c2c015f284d69469269fee6da39611ca78b3
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon May 7 17:36:50 2018 -0500
+
+    2018 05 07 --> servicio.html | update img and style word
+
+commit c93604c644d05bb253b8963b9de2c8ac3f0b34bc
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Mon May 7 14:33:00 2018 -0500
+
+    2018 05 07 --> Lunes
+
+commit 0885b7837496f727e83053115334edc06191dd8a
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri May 4 13:01:37 2018 -0500
+
+    2018 05 04 --> contacto.html se arreglo el problema de validacion de correo
+
+commit 52742b39c2154b5037cdd1b9de48491a7ec90c99
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri May 4 11:35:14 2018 -0500
+
+    2018 05 04 --> add contacto.html and cliente.html | footter
+
+commit 805f7c14227c4d42131d0f0e3df87a86fc520088
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Fri May 4 10:43:52 2018 -0500
+
+    2018 05 04 --> contacto.html 100% funcionado | diseño 50%
+
 commit c53d80b6a7cd6185bdce21391381d1fcf530802d
 Author: Slinkter <luis.j.cueva@gmail.com>
 Date:   Thu May 3 16:30:10 2018 -0500
