@@ -1,3 +1,39 @@
+commit 847d13be5e867a2334cfc69052ca21f3b14706ba
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Wed May 9 18:13:17 2018 -0500
+
+    2018 05 09 --> servicio_1b.html
+
+commit fdff6e9a5f47d8a3eb238854cbb3393bd3fe7f3d
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 18:17:13 2018 -0500
+
+    fin
+
+commit 8d328b861f96ae3ff36d040cbce1c4230b1dc3c3
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 17:45:08 2018 -0500
+
+    2018 05 08 --> update Gestion del talento Humano | 5 activiades y 5 imagenes
+
+commit f1042836b95ef6856ffe84c37c107d9b45445c13
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 17:25:50 2018 -0500
+
+    solucionado 100% versión 2
+
+commit bcd53b2a7256891d8a6ae7b0dfca946519dbce59
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 16:42:59 2018 -0500
+
+    solucion al problema : 100 %
+
+commit c7a42cf19ef924b1ee3094e471e32eec67794f65
+Author: Slinkter <luis.j.cueva@gmail.com>
+Date:   Tue May 8 16:24:13 2018 -0500
+
+    problemas
+
 commit 65e524cc97c7f5a0746bdb863040c2a21b706b3d
 Author: Slinkter <luis.j.cueva@gmail.com>
 Date:   Tue May 8 10:37:26 2018 -0500
